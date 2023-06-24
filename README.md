@@ -8,7 +8,7 @@ I'm a switcher, but with a big desire to learn new technologies! Currently I'm f
 
 * 🌍  I'm based in Odessa, Ukraine
 * 🖥️  See my portfolio at [my repositories](http:///github.com/Anastasia-front?tab=repositories)
-* ✉️  You can contact me at [palitsanastasia3.ap@gmail.com](mailto:Palitsanastasia3.ap@gmail.com) or 📲 [telegram](https://t.me/nastia_stretching)
+* 📨 You can contact me at [email](mailto:Palitsanastasia3.ap@gmail.com) or 📲 [telegram](https://t.me/nastia_stretching)
 * 🚀  I'm currently working on [first REST API](http://github.com/Anastasia-front/nodejs-homework-rest-api)
 * 🧠  I'm learning Node.js, MongoDB, Mongoose, JWT
 * 🤝  I'm open to collaborating on interesting projects
