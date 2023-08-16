@@ -1,15 +1,15 @@
 Hi 👋 My name is Anastasiia Prysiazhnaia
 ========================================
 
-👩🏻‍💻 Junior frontend developer
+👩🏻‍💻 Fullstack developer
 -------------------------
 
-I'm a switcher, but with a big desire to learn new technologies! Currently I'm finishing a course of Fullstack developer at [GoIT](https://github.com/goitacademy)
+I'm a switcher, but with a big desire to learn new technologies! Currently I'm working on several projects🔑
 
 * 🌍  I'm based in Odessa, Ukraine
-* 🖥️  See my portfolio at [my repositories](http:///github.com/Anastasia-front?tab=repositories)
+* 🖥️  See my [portfolio](https://github.com/Anastasia-front/portfolio) for more details on my skills 
 * 📨 You can contact me at [email](mailto:Palitsanastasia3.ap@gmail.com) or 📲 [telegram](https://t.me/nastia_stretching)
-* 🚀  I'm currently working on [first REST API](http://github.com/Anastasia-front/nodejs-homework-rest-api)
-* 🧠  I'm learning Node.js, MongoDB, Mongoose, JWT
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I will be very glad to receive first work proposal!
+* 🚀  Successfully completed a course of fullstack developer from [GoIT](https://github.com/goitacademy)
+* 🧠  I'm learning Node.js, Next.js, Vite.js, Tailwind CSS, MongoDB
+* 🤝  I'm opening to cooperation and collaboration
+* ⚡  I will be very glad to receive first job offer!
