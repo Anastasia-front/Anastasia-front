@@ -6,10 +6,10 @@ Hi 👋 My name is Anastasiia Prysiazhnaia
 
 I'm a switcher, but with a big desire to learn new technologies! Currently I'm working on several projects🔑
 
-* 🌍  I'm based in Odessa, Ukraine
-* 🖥️  See my [portfolio](https://github.com/Anastasia-front/portfolio) for more details on my skills 
-* 📨 You can contact me at [email](mailto:Palitsanastasia3.ap@gmail.com) or 📲 [telegram](https://t.me/nastia_stretching)
 * 🚀  Successfully completed a course of fullstack developer from [GoIT](https://github.com/goitacademy)
-* 🧠  I'm learning Node.js, Next.js, Vite.js, Tailwind CSS, MongoDB
+* 🖥️  See my [portfolio](https://github.com/Anastasia-front/portfolio) for more details on my skills
+* 📨 You can contact me at [email](mailto:Palitsanastasia3.ap@gmail.com) or 📲 [telegram](https://t.me/nastia_stretching)
+* 🌍  I'm based in Odessa, Ukraine
 * 🤝  I'm opening to cooperation and collaboration
 * ⚡  I will be very glad to receive first job offer!
+*  🧠  I'm learning Node.js, Next.js, Vite.js, Tailwind CSS, MongoDB
