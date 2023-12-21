@@ -16,3 +16,4 @@ I'm a switcher, but with a big desire to learn new technologies! Currently I'm w
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasia-front&show_icons=true&theme=ambient_gradient)](https://github.com/Anastasia-front/github-readme-stats)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anastasia-front/langs)](https://githubtrends.io)
+![github-wrapped (1)](https://github.com/Anastasia-front/Anastasia-front/assets/115567693/a51118c1-6b44-41b5-ad28-50e935bf57c4)
