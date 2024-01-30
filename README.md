@@ -15,4 +15,3 @@ I'm a switcher, but with a big desire to learn new technologies! Currently I'm w
 *  🧠  I'm learning Node.js, Next.js, Vite.js, Tailwind CSS, MongoDB
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasia-front&show_icons=true&theme=ambient_gradient)](https://github.com/Anastasia-front/github-readme-stats)
-![github-wrapped](https://github.com/Anastasia-front/Anastasia-front/assets/115567693/8d9f3a6f-4446-4eca-942a-65147ea52e72)
