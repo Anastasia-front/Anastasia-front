@@ -1,4 +1,4 @@
-Hi 👋 My name is Anastasiia Prysiazhna
+Hi 👋 My name is Anastasia Prysiazhna
 ========================================
 
 👩🏻‍💻 Fullstack developer
