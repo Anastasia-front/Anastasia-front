@@ -18,4 +18,9 @@ Hi 👋 My name is Anastasia Prysiazhna
 * 💼  I'm experienced in JS, Node, Vite, Tailwind CSS, MongoDB, MySQL, MariaDB, PostgreSQL, SQLite
 * 🧠  I'm learning CI/CD, Stripe, Nginx/Apache servers, API gateway, GraphQL, WebSockets
 
+# Hi there 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff69b4&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasia-front&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-front&layout=compact&theme=ambient_gradient)
 [![Anastasiia Pzysiazhna profile views](https://u8views.com/api/v1/github/profiles/115567693/views/day-week-month-total-count.svg)](https://u8views.com/github/Anastasia-front)
